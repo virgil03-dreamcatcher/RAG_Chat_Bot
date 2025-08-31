@@ -1,0 +1,7 @@
+django>=4.2,<5.3
+langchain>=0.2.14
+langchain-community>=0.2.12
+langchain-google-genai>=1.0.6
+faiss-cpu>=1.8.0.post1
+PyPDF>=4.2.0
+python-dotenv>=1.0.1
